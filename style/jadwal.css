@@ -1,0 +1,12 @@
+.radio{
+    display: none;
+}
+
+.label{
+    cursor:pointer;
+}
+
+.radio:checked + .label{
+    background-color:  rgb(71 85 105/1);
+    color: white;
+}
