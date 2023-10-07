@@ -5,7 +5,7 @@
     @include('main.header')
 </head>
 
-<body class="loading" data-layout-color="light" data-layout-mode="default" data-layout-size="fluid"
+<body class="loading font-[poppins] overscroll-none secondary-bg-color text-white" data-layout-color="light" data-layout-mode="default" data-layout-size="fluid"
     data-topbar-color="light" data-leftbar-position="fixed" data-leftbar-color="light" data-leftbar-size='default'
     data-sidebar-user='true'>
 
